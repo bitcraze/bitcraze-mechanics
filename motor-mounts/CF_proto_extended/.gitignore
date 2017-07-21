@@ -1,0 +1,6 @@
+## Gitignore
+# Ignore some proprietary and useless files
+
+*.3dm
+*.bak
+*.x3g
