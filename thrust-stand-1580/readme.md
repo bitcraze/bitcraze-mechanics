@@ -1,10 +1,10 @@
 # Instructions
 
 ## Get
-1 x Loadcell 1kg NA27 (or TAL220). e.g. https://www.mavin.cn/kitchen-scale-load-cell-low-capacity-weight-sensor-na27_p28.html
-2 x Loadcell 100g TAL221
-3 x 4x2.54mm connector to solder/fasten load cell wires to
-4 x M3x10 alt. M3x12 machine screws similar to screws in picture TAL221_to_TAL220_adapter_mounting_4xM3x12mm.jpg
+ - 1 x Loadcell 1kg NA27 (or TAL220). e.g. https://www.mavin.cn/kitchen-scale-load-cell-low-capacity-weight-sensor-na27_p28.html
+ - 2 x Loadcell 100g TAL221
+ - 3 x 4x2.54mm connector to solder/fasten load cell wires to
+ - 4 x M3x10 alt. M3x12 machine screws similar to screws in picture TAL221_to_TAL220_adapter_mounting_4xM3x12mm.jpg
 
 ## Replace load cells
  - 3D print "thrust-stand-loadcell-adapter.stl" with high quality settings and at least 40% infill.
