@@ -7,7 +7,7 @@
  - 4 x M3x10 alt. M3x12 machine screws similar to screws in picture TAL221_to_TAL220_adapter_mounting_4xM3x12mm.jpg
 
 ## Replace load cells
- - 3D print "thrust-stand-loadcell-adapter.stl" with high quality settings and at least 40% infill.
+ - 3D print 2 x "thrust-stand-loadcell-adapter.stl" with high quality settings and at least 40% infill.
  - Remove the stock load cells
  - Screw the TAL221 load cells to the adapter as in TAL221_to_TAL220_adapter_mounting_4xM3x12mm.jpg. Screws will "thread" the plastic.
  - Mount it back according to TAL21_mounted*.jpg pictures
