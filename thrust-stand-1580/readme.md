@@ -10,7 +10,7 @@
  - 3D print 2 x "thrust-stand-loadcell-adapter.stl" with high quality settings and at least 40% infill.
  - Remove the stock load cells
  - Screw the TAL221 load cells to the adapter as in TAL221_to_TAL220_adapter_mounting_4xM3x12mm.jpg. Screws will "thread" the plastic.
- - Mount it back according to TAL21_mounted*.jpg pictures
+ - Mount it back according to TAL21_mounted*.jpg pictures. The load cell wires should comming out inwards/backwards as the stock load cells.
 
 ## Calibrate
  - Open RCBenchmark software and connect to 15xx. You will need to activate Debug mode (in the Setup tab), and then enter the following hack code in the debug menu: 
