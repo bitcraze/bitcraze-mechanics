@@ -1,0 +1,11 @@
+Parts List
+==========
+
+1x ON/OFF toggle switch (e.g., https://www.ebay.de/itm/136255846258)
+1x USB cable
+2x Cable ties per "Adapter.stl"
+2x M4x10 DIN 912 screws (any material)
+2x M4x16 DIN 912 screws (any material)
+4x M4 nuts (any material)
+1x Sealing ring (silicone O-ring) 30x24x3
+1x Anker PowerCore 5000 mAh
