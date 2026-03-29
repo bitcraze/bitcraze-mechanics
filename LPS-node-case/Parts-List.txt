@@ -1,5 +1,20 @@
-Parts List
-==========
+[DE] Teileliste
+===============
+
+ON/OFF Kippschalter:
+https://www.ebay.de/itm/136255846258
+
+1x USB Kabel
+2x Kabelbinder pro Adapter
+2x M4x10 Din 912 Schrauben
+2x M4x16 Din 912 Schrauben
+4x M4 Muttern
+1x Dichtungsring (Silikon O-Ring) 30x24x3
+1x Anker PowerCore 5000 mAh
+
+
+[EN] Parts List
+===============
 
 1x ON/OFF toggle switch (e.g., https://www.ebay.de/itm/136255846258)
 1x USB cable
